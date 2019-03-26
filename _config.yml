@@ -105,9 +105,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
   Home: /
-  Homework-TNT: /homework/
   Elements: /elements/
-  Blog: /blog/
+  TNT-Homework: /blog/
   Categories: /categories/
   Search: /search/
   Fork Alembic: https://github.com/daviddarnes/alembic
