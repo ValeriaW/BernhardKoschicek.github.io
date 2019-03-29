@@ -52,3 +52,5 @@ How might practices such as digital storytelling
 coincide with or diverge from oral or print-based
 storytelling? What is the place of humanitas in a
 networked world?
+
+ --- Burdick et. al. A Shortguide to the Digital_Humanities
