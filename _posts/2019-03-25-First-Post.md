@@ -1,12 +1,16 @@
 ---
-title: First Testpost of this Site
+title: 25.03.2019
 categories:
-- General
+- Homework
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-Here you see the fist post which will be likly to include the screenshot of the git tutorial
+Dear Prof., 
+Here are my confirmation screenshots. Hopefully everything is alright
 <!-- more -->
 
 ![First-Tutorial](/img/Koschicek_TNT_bash_course_name_confirmation.png)
+![First-Tutorial](/img/Koschicek_TNT_bash_course_overview.png)
+![First-Tutorial](/img/Koschicek_TNT_git_course_name_confirmation.png)
+![First-Tutorial](/img/Koschicek_TNT_git_course_overview.png)
 
