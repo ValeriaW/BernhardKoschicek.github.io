@@ -8,12 +8,12 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Yeah you know, homework and stuff"
 ---
 ### What is the Digital Humanities?
-Digital Humanities refers to new modes of scholarship
+> >Digital Humanities refers to new modes of scholarship
 and institutional units for collaborative, transdisciplinary,
 and computationally engaged research,
 teaching, and publication.
 
-Digital Humanities is less a unified field than an
+> >Digital Humanities is less a unified field than an
 array of convergent practices that explore a universe
 in which print is no longer the primary medium in
 which knowledge is produced and disseminated.
@@ -30,7 +30,7 @@ and challenges that arise from the conjunction of the
 term digital with the term humanities to form a new
 collective singular.
 
-The opportunities include redrawing the boundary
+> >The opportunities include redrawing the boundary
 lines among the humanities, the social sciences,
 the arts, and the natural sciences; expanding the
 audience and social impact of scholarship in the
@@ -43,7 +43,7 @@ and developing practices that expand the scope,
 enhance the quality, and increase the visibility of
 humanistic research.
 
-The challenges include addressing fundamental
+> >The challenges include addressing fundamental
 questions such as: How can skills traditionally used
 in the humanities be reshaped in multimedia terms?
 How and by whom will the contours of cultural and
