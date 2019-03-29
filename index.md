@@ -1,5 +1,5 @@
 ---
-title: About TNT in 2019
+title: Digital Humanities TNT 
 feature_text: |
   ## TNT
   ### ('cause i'm t.n.t. i'm dynamite)
@@ -7,7 +7,7 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Yeah you know, homework and stuff"
 ---
-# What is the Digital Humanities?
+### What is the Digital Humanities?
 Digital Humanities refers to new modes of scholarship
 and institutional units for collaborative, transdisciplinary,
 and computationally engaged research,
