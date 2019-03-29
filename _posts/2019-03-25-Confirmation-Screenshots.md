@@ -10,7 +10,7 @@ Here are my confirmation screenshots. Hopefully everything is alright
 <!-- more -->
 
 # Bash course
-![First-Tutorial](/img/Koschicek_TNT_bash_course_name_confirmation.png =500)
+![First-Tutorial](/img/Koschicek_TNT_bash_course_name_confirmation.png =500x)
 ![First-Tutorial](/img/Koschicek_TNT_bash_course_overview.png)
 
 # Git course
