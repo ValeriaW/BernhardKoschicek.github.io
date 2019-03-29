@@ -107,7 +107,8 @@ navigation_header:
   Home: /
   Elements: /elements/
   TNT-Homework: /blog/
-  #Categories: /categories/
+  R: /blog/
+  Categories: /categories/
   #Search: /search/
   #Fork Alembic: https://github.com/daviddarnes/alembic
 
