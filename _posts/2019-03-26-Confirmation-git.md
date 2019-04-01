@@ -10,5 +10,7 @@ Here are my Confirmation Screenshots for the git course:
 
 # Git course
 ![Confirmation](/img/Koschicek_TNT_git_course_name_confirmation.png)
+
 ***
+
 ![Overview](/img/Koschicek_TNT_git_course_overview.png)

@@ -9,6 +9,8 @@ Here are my Confirmation Screenshots for the bash course:
 <!-- more -->
 
 # Bash course
-![Confirmation](/img/Koschicek_TNT_bash_course_name_confirmation.png)
+![Confirmation](/img/Koschicek_TNT_bash_course_name_confirmation.png | width=500)
+
 ***
-![Overview](/img/Koschicek_TNT_bash_course_overview.png)
+
+![Overview](/img/Koschicek_TNT_bash_course_overview.png | width=500)
