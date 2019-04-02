@@ -12,10 +12,10 @@ Here are my Confirmation Screenshots for the bash course:
 
 ***
 
-![Confirmation](/img/Koschicek_TNT_bash_course_name_confirmation.png | width=500)
+![Confirmation](/img/Koschicek_TNT_bash_course_name_confirmation.png)
 
 ***
 
-![Overview](/img/Koschicek_TNT_bash_course_overview.png | width=500)
+![Overview](/img/Koschicek_TNT_bash_course_overview.png)
 
 ***
