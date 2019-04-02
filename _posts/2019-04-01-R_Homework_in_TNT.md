@@ -5,7 +5,6 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-<!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
