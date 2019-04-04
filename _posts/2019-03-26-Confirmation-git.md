@@ -1,7 +1,7 @@
 ---
 title: 26.03.2019 - GIT course
 categories:
-- Homework
+- TNT
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 

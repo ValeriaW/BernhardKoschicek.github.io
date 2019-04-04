@@ -1,7 +1,7 @@
 ---
 title: 25.03.2019 - Bash course
 categories:
-- Homework
+- TNT
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
