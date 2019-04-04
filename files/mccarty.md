@@ -3,7 +3,6 @@ title: |
     *From*: "Modeling: A Study in Words and Meanings"
 subtitle:
 author: Willard McCarty
-date: 04.04.2019
 bibliography: tnt-model.bib
 csl: cms-fullnote.csl
 ---
