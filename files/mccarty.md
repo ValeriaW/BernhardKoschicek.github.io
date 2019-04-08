@@ -1,8 +1,9 @@
 ---
-title: |
-    *From*: "Modeling: A Study in Words and Meanings"
+title: 
+    19. "Modeling - A Study in Words and Meanings"
 subtitle:
 author: Willard McCarty
+date: 04.04.2019
 bibliography: tnt-model.bib
 csl: cms-fullnote.csl
 ---
@@ -53,7 +54,7 @@ Thus bringing "model" into focus against the semantic background of these other 
 
 # Analogy
 
-"Analogy" (Gk., "equality of ratios, proportion") is, like "model", a highly polysemous term with a long and complex career[^5]. John Stuart Mill complained that "no word … is used more loosely, or in a greater variety of senses, than Analogy [@millSystemLogic1882]. Yet Dr Johnson's pithy definition, "resemblance of things with regard to some circumstances or effects", and Mill's even pithier one, "resemblance of relations", give us an idea of why it is so fruitful. From its original meaning in Greek mathematics, analogy specifies a structured relationship between pairs of related quantities, which for convenience may be represented in the form of an equation, "A/B = C/D", read "as A is to B, so C is to D." Extended beyond mathematics to other modes of reasoning, analogy yields a powerful (but still poorly understood) means of inferring from the one relation to the other. Like most of the words in our domain, "analogy" is proleptic, a means of inference, based on conjecture, to something unknown or uncertain. Examples in the history of science are plentiful, e.g., Kepler's discovery of the *vis matrix*, or cause of planetary motion, by reasoning that as the sun radiated light, so it must also radiate this motive power [@gentnerAnalogyScientificDiscovery2002].
+"Analogy" (Gk. διγραμμα, "equality of ratios, proportion") is, like "model", a highly polysemous term with a long and complex career[^5]. John Stuart Mill complained that "no word … is used more loosely, or in a greater variety of senses, than Analogy [@millSystemLogic1882]. Yet Dr Johnson's pithy definition, "resemblance of things with regard to some circumstances or effects", and Mill's even pithier one, "resemblance of relations", give us an idea of why it is so fruitful. From its original meaning in Greek mathematics, analogy specifies a structured relationship between pairs of related quantities, which for convenience may be represented in the form of an equation, "A/B = C/D", read "as A is to B, so C is to D." Extended beyond mathematics to other modes of reasoning, analogy yields a powerful (but still poorly understood) means of inferring from the one relation to the other. Like most of the words in our domain, "analogy" is proleptic, a means of inference, based on conjecture, to something unknown or uncertain. Examples in the history of science are plentiful, e.g., Kepler's discovery of the *vis matrix*, or cause of planetary motion, by reasoning that as the sun radiated light, so it must also radiate this motive power [@gentnerAnalogyScientificDiscovery2002].
 
 Here I wish only to argue two points. The first is that analogy is basic to the entire vocabulary. Although not every model is as strictly based on an analogy as Kepler's, modeling is inherently analogical, with just the features that make the idea attractive for our purposes. Thus we require a structured correspondence between model and artifact, so that by playing with one we can infer facts about the other. (For example, by adjusting choice of words and weightings for a distribution-display across a textual corpus, one can investigate the effect of vocabulary on the interplay of meanings in that corpus.) The second point is that "analogy" is inherently static: it means either a type of relationship or an instance of one, never an object and not, literally or directly, a process. Action is implied in the ratio of quantities – thus Kepler's "as A does B, so C does D" – but acting is not denoted by the analogy. The word has no commonly used verbal form ("analogize" and "analogizing" are rare if not strange). Although an analogy may be algebraically or geometrically expressed and may refer to concrete objects, it itself is abstract.
 
